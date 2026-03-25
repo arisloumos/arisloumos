@@ -14,9 +14,9 @@ I’m exploring how technology meets business, moving beyond theory into practic
 ---
 
 ## 💻 Projects
-- **[Car Pooling Android App](https://github.com/arisloumos/carpooling-android-app)** – Android app for ride sharing with cost splitting and ratings, developed for a Software Engineering course.  
-- More projects coming: algorithms, AI demos, mini web apps.
-
+- **[Car Pooling Android App](https://github.com/arisloumos/carpooling-android-app)** – Android app for ride sharing with cost splitting and ratings, developed for a Software Engineering course.
+- **[Distributed Betting System App](https://github.com/arisloumos/distributed-betting-system.git)** – Android app for online betting games, developed for a Distributed Systems course.
+- More projects coming!
 ---
 
 ## 🛠 Skills
