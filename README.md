@@ -14,24 +14,29 @@ I’m exploring how technology meets business, moving beyond theory into practic
 ---
 
 ## 💻 Projects
-- **[Car Pooling Android App](https://github.com/arisloumos/carpooling-android-app)** – Android app for ride sharing with cost splitting and ratings, developed for a Software Engineering course.
-- **[Distributed Betting System App](https://github.com/arisloumos/distributed-betting-system.git)** – Android app for online betting games, developed for a Distributed Systems course.
+- **[Car Pooling Android App](https://github.com/arisloumos/carpooling-android-app)** – Android app for ride sharing with cost splitting and ratings, developed for a the "Software Engineering" course at AUEB.
+- **[Distributed Betting System App](https://github.com/arisloumos/distributed-betting-system.git)** – Android app for online betting games, developed for the "Distributed Systems" course at AUEB.
+- **[SurfHub](https://github.com/arisloumos/SurfHub.git)** – SurfHub is a website dedicated to the Olympic sport of surfing, created for the "Introduction to Computer Science" course at AUEB.
 - More projects coming!
 ---
 
 ## 🛠 Skills
 
-**Programming & Development:** Python, Java, Kotlin, JavaScript/React  
-**Frameworks & Tools:** Android Studio, LangChain, Azure OpenAI, Streamlit, SQLite/Room, Git/GitHub, Microsoft Excel  
-**Other:** Data Analysis, Supply Chain Software, Problem Solving, Team Collaboration  
+**Programming & Development:** Python, Java, JavaScript, React, SQL
+**Frameworks & Tools:** Microsoft Azure, LangChain, Azure OpenAI, Streamlit, Android Studio, SQLite/Room, Git/GitHub, Microsoft Excel  
+**Other:** Data Analysis, Prompt Engineering, Agile Methodologies, Generative AI & LLMs, RAG Architectures, Problem Solving, Team Collaboration, Supply Chain Software, IT Infrastructure
 
 ---
 
-## 🏆 Certifications
-- Introduction to OpenAI & ChatGPT API for Developers  
-- AZ-900 Microsoft Azure Fundamentals  
+## 🏆 Certifications 
+- Al Engineer Agentic Track: The Complete Agent & МСР Course
+- Tavily Web Search API  
 - Web Search API & AI Engineer Agentic Track: Complete Agent & RAG  
-- Basic to Advanced: Retrieval-Augmented Generation (RAG)  
+- Basic to Advanced: Retrieval-Augmented Generation (RAG)
+- Introduction to OpenAI & ChatGPT API for Developers
+- ChatGPT & Generative Al: Prompt Engineering for Business
+- Intro to Google's A2A Protocol: Interoperable Al
+- Google Build search and recommendations applications with AI Applications
 
 ---
 
@@ -63,5 +68,6 @@ I’m exploring how technology meets business, moving beyond theory into practic
 ---
 
 ## ⚡ Fun Facts
-- Volunteer “Buddy” at **AUEB GenZ Buddies Club**, mentoring fellow students  
+- Volunteer “Buddy” at **AUEB GenZ Buddies Club**, mentoring fellow students
+- Awards: 1st Place - National Competition "SaferInternet4Kids": Organized by FORTH, Top 10 Finalist - "Best Student Virtual Business": Junior Achievement Greece.
 - Hobbies: photo & video editing, DJing, piano, running  
