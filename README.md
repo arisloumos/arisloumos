@@ -22,7 +22,7 @@ I’m exploring how technology meets business, moving beyond theory into practic
   Distributed Android application for online betting games, developed for the "Distributed Systems" course at AUEB.
 
 - **[Machine Learning: NLP & Computer Vision](https://github.com/arisloumos/ML-NLP-Computer-Vision)**  
-  Implementation of Naive Bayes, Logistic Regression, Bi-LSTM, and ResNet18 models for sentiment analysis and image classification using Scikit-Learn and PyTorch, developed for the Artificial Intelligence course at AUEB.
+  Implementation of Naive Bayes, Logistic Regression, Bi-LSTM, and ResNet18 models for sentiment analysis and image classification using Scikit-Learn and PyTorch, developed for the "Artificial Intelligence" course at AUEB.
 
 - **[Reversi AI Agent](https://github.com/arisloumos/reversi-ai)**  
   Reversi (Othello) game featuring an AI opponent powered by Minimax with Alpha-Beta pruning, developed for the "Artificial Intelligence" course at AUEB.
