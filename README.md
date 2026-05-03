@@ -16,6 +16,7 @@ I’m exploring how technology meets business, moving beyond theory into practic
 ## 💻 Projects
 - **[Car Pooling Android App](https://github.com/arisloumos/carpooling-android-app)** – Android app for ride sharing with cost splitting and ratings, developed for the "Software Engineering" course at AUEB.
 - **[Distributed Betting System App](https://github.com/arisloumos/distributed-betting-system)** – Android app for online betting games, developed for the "Distributed Systems" course at AUEB.
+- **[Machine Learning: NLP & Computer Vision](https://github.com/arisloumos/ML-NLP-Computer-Vision.git)** - Implementation of Naive Bayes, Logistic Regression, Bi-LSTM, and ResNet18 for text and image classification tasks.
 - **[Reversi AI Agent](https://github.com/arisloumos/reversi-ai)** - An implementation of the classic board game Reversi (Othello), developed for the "Artificial Intelligence" course at AUEB. The project features an intelligent agent capable of playing against a human user, utilizing the Minimax algorithm with Alpha-Beta pruning for decision-making.
 - **[SurfHub](https://github.com/arisloumos/SurfHub)** – SurfHub is a website dedicated to the Olympic sport of surfing, created for the "Introduction to Computer Science" course at AUEB.
 - **[Scientific Calculator](https://github.com/arisloumos/scientific-calculator)** - A scientific calculator built with Vanilla JS using the Shunting-Yard algorithm.
