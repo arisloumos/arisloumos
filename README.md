@@ -21,6 +21,9 @@ I’m exploring how technology meets business, moving beyond theory into practic
 - **[Distributed Betting System](https://github.com/arisloumos/distributed-betting-system)**  
   Distributed Android application for online betting games, developed for the "Distributed Systems" course at AUEB.
 
+- **[Civil Engineering Portfolio](https://github.com/arisloumos/civil-engineering-portfolio)** 
+  A civil engineering portfolio website for a friend.
+
 - **[Machine Learning: NLP & Computer Vision](https://github.com/arisloumos/ML-NLP-Computer-Vision)**  
   Implementation of Naive Bayes, Logistic Regression, Bi-LSTM, and ResNet18 models for sentiment analysis and image classification using Scikit-Learn and PyTorch, developed for the "Artificial Intelligence" course at AUEB.
 
